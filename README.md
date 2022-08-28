@@ -1,1 +1,3 @@
-# lnanhkhoa
+- 👋 Hi, I’m @lnanhkhoa.
+- 👀 I’m interested in React native.
+- 🌱 I’m currently learning GraphQL.
